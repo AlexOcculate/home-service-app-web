@@ -1,3 +1,7 @@
+- [Back to __MASTER__](https://github.com/AlexOcculate/__MASTER__/blob/main/README.md)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
